@@ -3409,6 +3409,9 @@ class ThermostatPopupCard extends LitElement {
         
         /* CONTROLS */
         
+        .auto {
+          --mode-color: var(--auto-color);                  
+        }
         .heat_cool {
           --mode-color: var(--auto-color);
         }
