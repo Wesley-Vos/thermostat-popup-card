@@ -18,8 +18,8 @@ class ThermostatPopupCard extends LitElement {
     off: 7,
   };
   modeIcons = {
-    auto: "hass:autorenew",
-    heat_cool: "hass:autorenew",
+    auto: "mdi:autorenew",
+    heat_cool: "mdi:autorenew",
     heat: "hass:fire",
     cool: "hass:snowflake",
     off: "hass:power",
