@@ -3275,7 +3275,7 @@ class ThermostatPopupCard extends LitElement {
     static get styles() {
         return css `
         :host {
-            --auto-color: #EE7600;
+            --auto-color: green;
             --eco-color: springgreen;
             --cool-color: #2b9af9;
             --heat-color: #EE7600;
